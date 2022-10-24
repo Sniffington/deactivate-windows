@@ -4,6 +4,4 @@ I have already done it in this screenshot: ![image](https://user-images.githubus
 
 Outcome (After restart): ![image](https://user-images.githubusercontent.com/68871451/197453321-84b1ebb6-fff3-437c-ada9-2819dab0ac0a.png)
 
-
-
 No credit needed, obviously.
